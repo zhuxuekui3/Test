@@ -1,0 +1,69 @@
+d:\documents\visual studio 2010\Projects\testunline\testunline\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\testunline\testunline\obj\x86\Debug\testunline.Form1.resources
+d:\documents\visual studio 2010\Projects\testunline\testunline\obj\x86\Debug\testunline.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\testunline\testunline\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\testunline\testunline\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\testunline\testunline\bin\Debug\testunline.exe
+d:\documents\visual studio 2010\Projects\testunline\testunline\bin\Debug\testunline.pdb
+d:\documents\visual studio 2010\Projects\testunline\testunline\obj\x86\Debug\testunline.exe
+d:\documents\visual studio 2010\Projects\testunline\testunline\obj\x86\Debug\testunline.pdb
+F:\导航软件\离散测试\testunline\testunline\obj\x86\Debug\testunline.exe
+F:\导航软件\离散测试\testunline\testunline\obj\x86\Debug\testunline.pdb
+F:\导航软件\离散测试\testunline\testunline\bin\Debug\testunline.exe
+F:\导航软件\离散测试\testunline\testunline\bin\Debug\testunline.pdb
+F:\导航软件\离散测试\testunline\testunline\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\导航软件\离散测试\testunline\testunline\obj\x86\Debug\testunline.Form1.resources
+F:\导航软件\离散测试\testunline\testunline\obj\x86\Debug\testunline.Properties.Resources.resources
+F:\导航软件\离散测试\testunline\testunline\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\导航软件\离散测试\testunline\testunline\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\离散测试\testunline\testunline\obj\x86\Debug\testunline.exe
+D:\离散测试\testunline\testunline\obj\x86\Debug\testunline.pdb
+D:\离散测试\testunline\testunline\bin\Debug\testunline.exe
+D:\离散测试\testunline\testunline\bin\Debug\testunline.pdb
+D:\离散测试\testunline\testunline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\离散测试\testunline\testunline\obj\x86\Debug\testunline.Form1.resources
+D:\离散测试\testunline\testunline\obj\x86\Debug\testunline.Properties.Resources.resources
+D:\离散测试\testunline\testunline\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\离散测试\testunline\testunline\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\离散测试 按钮控制\testunline\testunline\obj\x86\Debug\testunline.exe
+F:\离散测试 按钮控制\testunline\testunline\obj\x86\Debug\testunline.pdb
+F:\离散测试 按钮控制\testunline\testunline\bin\Debug\testunline.exe
+F:\离散测试 按钮控制\testunline\testunline\bin\Debug\testunline.pdb
+F:\离散测试 按钮控制\testunline\testunline\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\离散测试 按钮控制\testunline\testunline\obj\x86\Debug\testunline.Form1.resources
+F:\离散测试 按钮控制\testunline\testunline\obj\x86\Debug\testunline.Properties.Resources.resources
+F:\离散测试 按钮控制\testunline\testunline\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\离散测试 按钮控制\testunline\testunline\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.exe
+F:\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.pdb
+F:\离散测试 按钮控制      定时器\testunline\testunline\bin\Debug\testunline.exe
+F:\离散测试 按钮控制      定时器\testunline\testunline\bin\Debug\testunline.pdb
+F:\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.Form1.resources
+F:\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.Properties.Resources.resources
+F:\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\金通\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.exe
+E:\金通\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.pdb
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.exe
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\testunline.pdb
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\TestLog4Net.Form1.resources
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\obj\x86\Debug\TestLog4Net.Properties.Resources.resources
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\bin\Debug\testunline.exe.config
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\bin\Debug\testunline.exe
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\bin\Debug\testunline.pdb
+C:\Users\Administrator\Desktop\离散测试 按钮控制      定时器\testunline\testunline\bin\Debug\log4net.dll
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\bin\Debug\testunline.exe.config
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\obj\x86\Debug\testunline.exe
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\obj\x86\Debug\testunline.pdb
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\obj\x86\Debug\TestLog4net.Form1.resources
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\obj\x86\Debug\TestLog4net.Properties.Resources.resources
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\bin\Debug\testunline.exe
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\bin\Debug\testunline.pdb
+E:\金通\离线测试\离散测试 按钮控制      定时器2\testunline\testunline\bin\Debug\log4net.dll
